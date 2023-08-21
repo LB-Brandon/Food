@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <!-- 추가적인 보안 설정이 필요하다면 여기에 설정 -->
+    </base-config>
+</network-security-config>
