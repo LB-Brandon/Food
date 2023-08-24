@@ -1,6 +1,10 @@
-# Food Inventory Pro App
+# Food Inventory Pro App powered by ChatGPT
 
-Welcome to the Food Inventory Pro app repository! This app allows you to manage your food items, automatically generate recipes using OpenAI, and upload recipe images to S3 storage. The app utilizes the latest features of Android.
+Welcome to the Food Inventory Pro app repository! <br/>
+This app allows you to manage your food items, automatically generate recipes using OpenAI, and upload recipe images to S3 storage. 
+The app utilizes the latest features of Android like **Jetpack, Coroutines, Jetpack, Latest Material Design** etc.
+
+There is a Back-end Server for this app [Check the server](https://github.com/LB-Brandon/FoodInventoryServer/tree/main)
 
 ## UI Design
 <img width="722" alt="image" src="https://github.com/LB-Brandon/FoodInventoryPro/assets/84883277/a97f23bb-f606-4362-b9e7-ecc272b5468e">
